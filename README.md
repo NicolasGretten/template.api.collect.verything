@@ -9,6 +9,9 @@ php artisan serve
 ```
 
 ## Docs
+
+readable at /docs
+
 ```bash
 php artisan scribe:generate --force
 ```
