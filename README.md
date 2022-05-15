@@ -1,5 +1,5 @@
-#Collect&Verything API
-##Starting new project
+# Collect&Verything API
+## Starting new project
 ```bash
 composer install
 ```
@@ -8,7 +8,13 @@ composer install
 php artisan serve
 ```
 
-##Docs
+## Docs
 ```bash
 php artisan scribe:generate --force
+```
+
+## Gitlab Issues
+
+```bash
+git -c http.sslVerify=false push origin master
 ```
